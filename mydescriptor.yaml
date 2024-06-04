@@ -1,0 +1,9 @@
+#%Catalog Descriptor 1.0
+projects:
+  - main: swagger.yaml
+    documentation:
+      Home: Home.md
+      Use Cases: Use_Cases.md
+    assetId: version-basic-api
+    apiVersion: v4
+    version: 4.0.0
