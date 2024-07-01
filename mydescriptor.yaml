@@ -1,6 +1,6 @@
 #%Catalog Descriptor 1.0
 projects:
-  - main: discover-main/swagger.yaml
+  - main: swagger.yaml
     assetId: swagger-petstore
     version: 1.0.9
     apiVersion: v1
