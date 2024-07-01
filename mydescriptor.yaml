@@ -1,6 +1,9 @@
 #%Catalog Descriptor 1.0
 projects:
   - main: swagger.yaml
+    documentation:
+      Home: Home.md
+      Use Cases: Use_Cases.md
     assetId: swagger-petstore
     version: 1.0.9
     apiVersion: v1
