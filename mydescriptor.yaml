@@ -5,8 +5,8 @@ projects:
       Home: Home.md
       Use Cases: Use_Cases.md
     assetId: swagger-petstore
-    version: 1.0.12
+    version: 1.0.13
     apiVersion: v1
     contact:
-      name: Gabriel
+      name: Gabriel Bustos
       email: apiteam@swagger.io
