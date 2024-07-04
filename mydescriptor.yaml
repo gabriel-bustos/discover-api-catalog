@@ -8,5 +8,5 @@ projects:
     version: 1.0.12
     apiVersion: v1
     contact:
-      name: unknown
+      name: Gabriel
       email: apiteam@swagger.io
